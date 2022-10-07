@@ -1,13 +1,25 @@
+<<<<<<< HEAD
 using System.Collections.Generic;
 using UnityEngine;
 using System.Linq;
+=======
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+using System.Linq;
+using UnityEditor.SceneManagement;
+>>>>>>> parent of c445c00 (Revert "2022年前期　ゲームプロジェクト完成")
 
 public class TurnTile : MonoBehaviour
 {
     private GameObject _choiceTile, _choiceTileDir, emphasisTile, playerObject;
 
     private bool checkStone = false;
+<<<<<<< HEAD
     private bool Hanten = false;
+=======
+
+>>>>>>> parent of c445c00 (Revert "2022年前期　ゲームプロジェクト完成")
     [SerializeField]
     private List<GameObject> TurnTileList = new List<GameObject>();
     GameObject firstTile;
@@ -23,7 +35,10 @@ public class TurnTile : MonoBehaviour
                 if (Hit2d.transform.gameObject.tag == "MapTile")
                 {
                     firstTile = Hit2d.transform.gameObject;
+<<<<<<< HEAD
                     Hanten = true;
+=======
+>>>>>>> parent of c445c00 (Revert "2022年前期　ゲームプロジェクト完成")
                 }
             }
         }
@@ -144,6 +159,7 @@ public class TurnTile : MonoBehaviour
 
                                     }
                                 }
+<<<<<<< HEAD
                                 else
                                 {
                                     foreach (var tile in TurnTileList)
@@ -160,6 +176,8 @@ public class TurnTile : MonoBehaviour
                                     }
                                     TurnTileList.Clear();
                                 }
+=======
+>>>>>>> parent of c445c00 (Revert "2022年前期　ゲームプロジェクト完成")
                             }
                         }
                     }
@@ -186,6 +204,7 @@ public class TurnTile : MonoBehaviour
                         }
                     }
                     emphasisTile.gameObject.SetActive(false);
+<<<<<<< HEAD
                     
                 }
                 checkStone = false;
@@ -193,6 +212,11 @@ public class TurnTile : MonoBehaviour
                     GeneralManager.Instance.isPlay = true;
                 Hanten = false;
 
+=======
+                }
+                checkStone = false;
+                GeneralManager.Instance.isPlay = true;
+>>>>>>> parent of c445c00 (Revert "2022年前期　ゲームプロジェクト完成")
             }
             else if (StageManager.Instance.hantenNum > 0)
             {

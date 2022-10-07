@@ -5,7 +5,11 @@ using UnityEngine.UI;
 
 public class StarView : MonoBehaviour
 {
+<<<<<<< HEAD
     [SerializeField, Tooltip("���̍ő�l")] private int MaxStarValue = 6;
+=======
+    [SerializeField, Tooltip("���̍ő�l")] private int MaxStarValue = 3;
+>>>>>>> parent of c445c00 (Revert "2022年前期　ゲームプロジェクト完成")
     [SerializeField, Tooltip("��Փx�̒l")] private int StarValue = 0;
 
     private Text text;
@@ -38,7 +42,10 @@ public class StarView : MonoBehaviour
                 startext = startext.Insert(0, "��");
             }
         }
+<<<<<<< HEAD
 
+=======
+>>>>>>> parent of c445c00 (Revert "2022年前期　ゲームプロジェクト完成")
         return startext;
     }
 

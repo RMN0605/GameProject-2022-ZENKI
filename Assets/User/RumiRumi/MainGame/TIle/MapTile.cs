@@ -1,4 +1,13 @@
+<<<<<<< HEAD
 using UnityEngine;
+=======
+using System;
+using System.Collections;
+using System.Collections.Generic;
+using UnityEditor.SceneManagement;
+using UnityEngine;
+using UnityEngine.Serialization;
+>>>>>>> parent of c445c00 (Revert "2022年前期　ゲームプロジェクト完成")
 
 public class MapTile : MonoBehaviour
 {

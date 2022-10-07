@@ -1,6 +1,14 @@
 using System.Collections.Generic;
+<<<<<<< HEAD
 using UnityEngine;
 using UnityEngine.SceneManagement;
+=======
+using Unity.VisualScripting;
+using UnityEditor.SceneManagement;
+using UnityEngine;
+using UnityEngine.SceneManagement;
+using UnityEngine.Serialization;
+>>>>>>> parent of c445c00 (Revert "2022年前期　ゲームプロジェクト完成")
 
 public enum PlayerDirection  //移動する方向
 {

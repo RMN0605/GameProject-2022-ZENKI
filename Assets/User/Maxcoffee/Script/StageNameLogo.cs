@@ -35,11 +35,19 @@ public class StageNameLogo : MonoBehaviour
     {
         sprite = GetComponent<SpriteRenderer>();
 
+<<<<<<< HEAD
         if (GeneralManager.Instance.selectStageNum != 0 )
         {
             callCoroutine();
         }
         if(11 == GeneralManager.Instance.selectStageNum)
+=======
+        if (useSpriteList.Count > GeneralManager.Instance.selectStageNum || GeneralManager.Instance.selectStageNum != 0 )
+        {
+            callCoroutine();
+        }
+        else
+>>>>>>> parent of c445c00 (Revert "2022年前期　ゲームプロジェクト完成")
         {
             gameObject.SetActive(false);
         }

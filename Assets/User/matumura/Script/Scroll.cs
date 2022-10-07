@@ -18,8 +18,12 @@ public class Scroll : MonoBehaviour
     public int _count;
 
     private float step;
+<<<<<<< HEAD
     [SerializeField]
     private float scale = 0;
+=======
+
+>>>>>>> parent of c445c00 (Revert "2022年前期　ゲームプロジェクト完成")
     private Vector3 moveM;
     // Start is called before
     //the first frame update
@@ -53,7 +57,11 @@ public class Scroll : MonoBehaviour
         {
             moveM.y = -425;
             transform.position = Vector3.MoveTowards(transform.position, moveM, step);
+<<<<<<< HEAD
             Masterlist[0].transform.localScale = new Vector3(scale, scale, 1);
+=======
+            Masterlist[0].transform.localScale = new Vector3(1.3f, 1.3f, 1);
+>>>>>>> parent of c445c00 (Revert "2022年前期　ゲームプロジェクト完成")
             Masterlist[1].transform.localScale = new Vector3(1, 1, 1);
             GeneralManager.Instance.selectStageNum = _count - 1;
         }
@@ -62,7 +70,11 @@ public class Scroll : MonoBehaviour
             moveM.y = -25;
             transform.position = Vector3.MoveTowards(transform.position, moveM, step);
             Masterlist[0].transform.localScale = new Vector3(1, 1, 1);
+<<<<<<< HEAD
             Masterlist[1].transform.localScale = new Vector3(scale, scale, 1);
+=======
+            Masterlist[1].transform.localScale = new Vector3(1.3f, 1.3f, 1);
+>>>>>>> parent of c445c00 (Revert "2022年前期　ゲームプロジェクト完成")
             Masterlist[2].transform.localScale = new Vector3(1, 1, 1);
             GeneralManager.Instance.selectStageNum = _count - 1;
         }
@@ -71,7 +83,11 @@ public class Scroll : MonoBehaviour
             moveM.y = 375;
             transform.position = Vector3.MoveTowards(transform.position, moveM, step);
             Masterlist[1].transform.localScale = new Vector3(1, 1, 1);
+<<<<<<< HEAD
             Masterlist[2].transform.localScale = new Vector3(scale, scale, 1);
+=======
+            Masterlist[2].transform.localScale = new Vector3(1.3f, 1.3f, 1);
+>>>>>>> parent of c445c00 (Revert "2022年前期　ゲームプロジェクト完成")
             Masterlist[3].transform.localScale = new Vector3(1, 1, 1);
             GeneralManager.Instance.selectStageNum = _count - 1;
         }
@@ -80,7 +96,11 @@ public class Scroll : MonoBehaviour
             moveM.y = 775;
             transform.position = Vector3.MoveTowards(transform.position, moveM, step);
             Masterlist[2].transform.localScale = new Vector3(1, 1, 1);
+<<<<<<< HEAD
             Masterlist[3].transform.localScale = new Vector3(scale, scale, 1);
+=======
+            Masterlist[3].transform.localScale = new Vector3(1.3f, 1.3f, 1);
+>>>>>>> parent of c445c00 (Revert "2022年前期　ゲームプロジェクト完成")
             Masterlist[4].transform.localScale = new Vector3(1, 1, 1);
             GeneralManager.Instance.selectStageNum = _count - 1;
         }
@@ -89,7 +109,11 @@ public class Scroll : MonoBehaviour
             moveM.y = 1175;
             transform.position = Vector3.MoveTowards(transform.position, moveM, step);
             Masterlist[3].transform.localScale = new Vector3(1, 1, 1);
+<<<<<<< HEAD
             Masterlist[4].transform.localScale = new Vector3(scale, scale, 1);
+=======
+            Masterlist[4].transform.localScale = new Vector3(1.3f, 1.3f, 1);
+>>>>>>> parent of c445c00 (Revert "2022年前期　ゲームプロジェクト完成")
             Masterlist[5].transform.localScale = new Vector3(1, 1, 1);
             GeneralManager.Instance.selectStageNum = _count - 1;
         }
@@ -98,7 +122,11 @@ public class Scroll : MonoBehaviour
             moveM.y = 1575;
             transform.position = Vector3.MoveTowards(transform.position, moveM, step);
             Masterlist[4].transform.localScale = new Vector3(1, 1, 1);
+<<<<<<< HEAD
             Masterlist[5].transform.localScale = new Vector3(scale, scale, 1);
+=======
+            Masterlist[5].transform.localScale = new Vector3(1.3f, 1.3f, 1);
+>>>>>>> parent of c445c00 (Revert "2022年前期　ゲームプロジェクト完成")
             Masterlist[6].transform.localScale = new Vector3(1, 1, 1);
             GeneralManager.Instance.selectStageNum = _count - 1;
         }
@@ -107,7 +135,11 @@ public class Scroll : MonoBehaviour
             moveM.y = 1975;
             transform.position = Vector3.MoveTowards(transform.position, moveM, step);
             Masterlist[5].transform.localScale = new Vector3(1, 1, 1);
+<<<<<<< HEAD
             Masterlist[6].transform.localScale = new Vector3(scale, scale, 1);
+=======
+            Masterlist[6].transform.localScale = new Vector3(1.3f, 1.3f, 1);
+>>>>>>> parent of c445c00 (Revert "2022年前期　ゲームプロジェクト完成")
             Masterlist[7].transform.localScale = new Vector3(1, 1, 1);
             GeneralManager.Instance.selectStageNum = _count - 1;
         }
@@ -116,7 +148,11 @@ public class Scroll : MonoBehaviour
             moveM.y = 2375;
             transform.position = Vector3.MoveTowards(transform.position, moveM, step);
             Masterlist[6].transform.localScale = new Vector3(1, 1, 1);
+<<<<<<< HEAD
             Masterlist[7].transform.localScale = new Vector3(scale, scale, 1);
+=======
+            Masterlist[7].transform.localScale = new Vector3(1.3f, 1.3f, 1);
+>>>>>>> parent of c445c00 (Revert "2022年前期　ゲームプロジェクト完成")
             Masterlist[8].transform.localScale = new Vector3(1, 1, 1);
             GeneralManager.Instance.selectStageNum = _count - 1;
         }
@@ -125,7 +161,11 @@ public class Scroll : MonoBehaviour
             moveM.y = 2775;
             transform.position = Vector3.MoveTowards(transform.position, moveM, step);
             Masterlist[7].transform.localScale = new Vector3(1, 1, 1);
+<<<<<<< HEAD
             Masterlist[8].transform.localScale = new Vector3(scale, scale, 1);
+=======
+            Masterlist[8].transform.localScale = new Vector3(1.3f, 1.3f, 1);
+>>>>>>> parent of c445c00 (Revert "2022年前期　ゲームプロジェクト完成")
             Masterlist[9].transform.localScale = new Vector3(1, 1, 1);
             GeneralManager.Instance.selectStageNum = _count - 1;
         }
@@ -134,7 +174,11 @@ public class Scroll : MonoBehaviour
             moveM.y = 3175;
             transform.position = Vector3.MoveTowards(transform.position, moveM, step);
             Masterlist[8].transform.localScale = new Vector3(1, 1, 1);
+<<<<<<< HEAD
             Masterlist[9].transform.localScale = new Vector3(scale, scale, 1);
+=======
+            Masterlist[9].transform.localScale = new Vector3(1.3f, 1.3f, 1);
+>>>>>>> parent of c445c00 (Revert "2022年前期　ゲームプロジェクト完成")
             Masterlist[10].transform.localScale = new Vector3(1, 1, 1);
             GeneralManager.Instance.selectStageNum = _count - 1;
         }
@@ -142,7 +186,11 @@ public class Scroll : MonoBehaviour
         {
             moveM.y = 3575;
             transform.position = Vector3.MoveTowards(transform.position, moveM, step);
+<<<<<<< HEAD
             Masterlist[10].transform.localScale = new Vector3(scale, scale, 1);
+=======
+            Masterlist[10].transform.localScale = new Vector3(1.3f, 1.3f, 1);
+>>>>>>> parent of c445c00 (Revert "2022年前期　ゲームプロジェクト完成")
             Masterlist[9].transform.localScale = new Vector3(1, 1, 1);
             GeneralManager.Instance.selectStageNum = _count - 1;
         }

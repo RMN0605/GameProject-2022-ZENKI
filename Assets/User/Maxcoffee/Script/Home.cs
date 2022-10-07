@@ -79,7 +79,11 @@ public class Home : MonoBehaviour
 	
 	public void ChengeNextStageScene()
     {
+<<<<<<< HEAD
 	    GeneralManager.Instance.soundManager.PlaySE(SoundManager.SeName.se_09);
+=======
+	    GeneralManager.Instance.soundManager.PlaySE(SoundManager.SeName.se_02);
+>>>>>>> parent of c445c00 (Revert "2022年前期　ゲームプロジェクト完成")
 		GeneralManager.Instance.soundManager.StopBGM();
 		GeneralManager.Instance.selectStageNum++;
 		if (GeneralManager.Instance.selectStageNum > 10)

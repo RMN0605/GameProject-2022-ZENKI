@@ -1,6 +1,11 @@
 using System;
 using System.Linq;
 using UnityEngine;
+<<<<<<< HEAD
+=======
+using UnityEngine.SceneManagement;
+using UnityEngine.Serialization;
+>>>>>>> parent of c445c00 (Revert "2022年前期　ゲームプロジェクト完成")
 
 public class MapManager : MonoBehaviour
 {
@@ -261,8 +266,13 @@ public class MapManager : MonoBehaviour
         /// </summary>
         public void LoadTurnData()
         {
+<<<<<<< HEAD
             Index loadDataNum = _nowDataCount;
             if(_nowDataCount >= 1) _nowDataCount--;
+=======
+            if(_nowDataCount != 0) _nowDataCount--;
+            Index loadDataNum = _nowDataCount;
+>>>>>>> parent of c445c00 (Revert "2022年前期　ゲームプロジェクト完成")
             _mapData = JsonUtility.FromJson<MapData>(StageManager.Instance.saveStageData[loadDataNum]);
             if (StageManager.Instance.saveStageObjectData.Count >= 1)
             {
@@ -281,10 +291,17 @@ public class MapManager : MonoBehaviour
                 //ターン数を読み込み
                 StageManager.Instance.turnNum = StageManager.Instance.saveTurnNum[loadDataNum];
                 //反転数を読み込み
+<<<<<<< HEAD
                 StageManager.Instance.hantenNum = StageManager.Instance.saveHantenNum[_nowDataCount];
                 //ロープの所持を読み込み
                 StageManager.Instance.isHaveRope = StageManager.Instance.saveIsHaveRope[loadDataNum];
                 StageManager.Instance.uiManager.ChangeRopeUI();
+=======
+                StageManager.Instance.hantenNum = StageManager.Instance.saveHantenNum[loadDataNum];
+                //ロープの所持を読み込み
+                StageManager.Instance.isHaveRope = StageManager.Instance.saveIsHaveRope[loadDataNum];
+
+>>>>>>> parent of c445c00 (Revert "2022年前期　ゲームプロジェクト完成")
                 //マップデータを読み込み
                 foreach (var map in _mapData.tileChips.Select((mapChip, index) => new { mapChip, index }))
                 {

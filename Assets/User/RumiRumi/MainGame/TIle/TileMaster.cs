@@ -37,9 +37,15 @@ public class TileMaster : MonoBehaviour
     private IEnumerator Kaiten()
     {
         GeneralManager.Instance.isPlay = false;
+<<<<<<< HEAD
         for (int i = 0; i < 180; i += 6)
         {
             transform.Rotate(0,6,0);
+=======
+        for (int i = 0; i < 180; i += 3)
+        {
+            transform.Rotate(0,3,0);
+>>>>>>> parent of c445c00 (Revert "2022年前期　ゲームプロジェクト完成")
             //見えないところで反転するよ
             if (i == 90 || i == -90)
             {

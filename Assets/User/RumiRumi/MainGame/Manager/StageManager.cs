@@ -41,8 +41,12 @@ public class StageManager : MonoBehaviour
         set
         {
             _isHaveRope = value;
+<<<<<<< HEAD
             if(_isHaveRope)
                 GeneralManager.Instance.soundManager.PlaySE(SoundManager.SeName.se_12);
+=======
+            
+>>>>>>> parent of c445c00 (Revert "2022年前期　ゲームプロジェクト完成")
             uiManager.ChangeRopeUI();
         }
     }

@@ -75,15 +75,21 @@ public class MenuImage : MonoBehaviour
     // �{�^���������Ƃ��̏���
     public void OpenMenuBota()
     {
+<<<<<<< HEAD
         GeneralManager.Instance.soundManager.PlaySE(SoundManager.SeName.se_09);
         GeneralManager.Instance.isPlay = false;
+=======
+>>>>>>> parent of c445c00 (Revert "2022年前期　ゲームプロジェクト完成")
         countbt++;
         if (countbt == 1)
         {
             OpenBottun = true;
             Imagemenu = false;
             isColl = false;
+<<<<<<< HEAD
 
+=======
+>>>>>>> parent of c445c00 (Revert "2022年前期　ゲームプロジェクト完成")
         }
         else
         {
@@ -92,8 +98,11 @@ public class MenuImage : MonoBehaviour
     }
     public void CloseMenuBota()
     {
+<<<<<<< HEAD
         GeneralManager.Instance.soundManager.PlaySE(SoundManager.SeName.se_09);
         GeneralManager.Instance.isPlay = true;
+=======
+>>>>>>> parent of c445c00 (Revert "2022年前期　ゲームプロジェクト完成")
         countbt++;
         if (countbt == 2)
         {

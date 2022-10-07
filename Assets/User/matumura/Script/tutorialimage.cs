@@ -27,6 +27,7 @@ public class tutorialimage : MonoBehaviour
         }
         if (Input.GetKeyDown(KeyCode.D) || Input.GetKeyDown(KeyCode.RightArrow))
         {
+<<<<<<< HEAD
             clickPage();
         }
     }
@@ -37,6 +38,13 @@ public class tutorialimage : MonoBehaviour
         {
             SpriteNum++;
             spriteRenderer.sprite = sprites[SpriteNum];
+=======
+            if (SpriteNum != sprites.Count - 1)
+            {
+                SpriteNum++;
+                spriteRenderer.sprite = sprites[SpriteNum];
+            }
+>>>>>>> parent of c445c00 (Revert "2022年前期　ゲームプロジェクト完成")
         }
     }
 }

@@ -13,7 +13,11 @@ public class GeneralManager : MonoBehaviour
     [HideInInspector] public        MapType        mapType;
     
                       public int    selectStageNum;                 //ステージ番号 :この番号に対応したステージを遊ぶ
+<<<<<<< HEAD
      public bool   isPlay;                         //行動してもよいか
+=======
+    [HideInInspector] public bool   isPlay;                         //行動してもよいか
+>>>>>>> parent of c445c00 (Revert "2022年前期　ゲームプロジェクト完成")
     private void Awake()
     {
         //FPSを60に固定

@@ -229,7 +229,11 @@ RectTransform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 68830558}
+<<<<<<< HEAD
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+=======
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+>>>>>>> parent of c445c00 (Revert "2022年前期　ゲームプロジェクト完成")
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
@@ -239,8 +243,13 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
+<<<<<<< HEAD
   m_AnchoredPosition: {x: 135, y: 75}
   m_SizeDelta: {x: 250, y: 70}
+=======
+  m_AnchoredPosition: {x: 75, y: 75}
+  m_SizeDelta: {x: 180, y: 70}
+>>>>>>> parent of c445c00 (Revert "2022年前期　ゲームプロジェクト完成")
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &68830560
 MonoBehaviour:
@@ -267,7 +276,11 @@ MonoBehaviour:
     m_FontSize: 50
     m_FontStyle: 0
     m_BestFit: 0
+<<<<<<< HEAD
     m_MinSize: 5
+=======
+    m_MinSize: 0
+>>>>>>> parent of c445c00 (Revert "2022年前期　ゲームプロジェクト完成")
     m_MaxSize: 50
     m_Alignment: 0
     m_AlignByGeometry: 0
@@ -275,7 +288,11 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
+<<<<<<< HEAD
   m_Text: "\u2606\u2606\u2606\u2606\u2606\u2606"
+=======
+  m_Text: "\u2606\u2606\u2606"
+>>>>>>> parent of c445c00 (Revert "2022年前期　ゲームプロジェクト完成")
 --- !u!222 &68830561
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -296,8 +313,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5d1c1d20408494049a07687cca5bbbbc, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+<<<<<<< HEAD
   MaxStarValue: 6
   StarValue: 6
+=======
+  MaxStarValue: 3
+  StarValue: 0
+>>>>>>> parent of c445c00 (Revert "2022年前期　ゲームプロジェクト完成")
 --- !u!1 &78816389
 GameObject:
   m_ObjectHideFlags: 0
@@ -407,7 +429,11 @@ RectTransform:
   m_GameObject: {fileID: 82238958}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
+<<<<<<< HEAD
   m_LocalScale: {x: 0.84096, y: 0.84096, z: 0.84096}
+=======
+  m_LocalScale: {x: 1, y: 1, z: 1}
+>>>>>>> parent of c445c00 (Revert "2022年前期　ゲームプロジェクト完成")
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 671474433}
@@ -420,7 +446,11 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
+<<<<<<< HEAD
   m_AnchoredPosition: {x: -150, y: -3575}
+=======
+  m_AnchoredPosition: {x: 0, y: -3575}
+>>>>>>> parent of c445c00 (Revert "2022年前期　ゲームプロジェクト完成")
   m_SizeDelta: {x: 1300, y: 300}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &82238960
@@ -492,14 +522,22 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
+<<<<<<< HEAD
   m_Color: {r: 1, g: 1, b: 1, a: 1}
+=======
+  m_Color: {r: 0.6117647, g: 0.57254905, b: 0.8773585, a: 1}
+>>>>>>> parent of c445c00 (Revert "2022年前期　ゲームプロジェクト完成")
   m_RaycastTarget: 1
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
   m_Maskable: 1
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
+<<<<<<< HEAD
   m_Sprite: {fileID: 21300000, guid: 1b23ea0a9d32fd24da00d717f39018da, type: 3}
+=======
+  m_Sprite: {fileID: 0}
+>>>>>>> parent of c445c00 (Revert "2022年前期　ゲームプロジェクト完成")
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -642,7 +680,11 @@ RectTransform:
   m_GameObject: {fileID: 119046088}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 5.19075}
+<<<<<<< HEAD
   m_LocalScale: {x: 0.84096, y: 0.84096, z: 0.84096}
+=======
+  m_LocalScale: {x: 1, y: 1, z: 1}
+>>>>>>> parent of c445c00 (Revert "2022年前期　ゲームプロジェクト完成")
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 577887215}
@@ -655,7 +697,11 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
+<<<<<<< HEAD
   m_AnchoredPosition: {x: -150, y: 25}
+=======
+  m_AnchoredPosition: {x: 0, y: 25}
+>>>>>>> parent of c445c00 (Revert "2022年前期　ゲームプロジェクト完成")
   m_SizeDelta: {x: 1300, y: 300}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &119046090
@@ -671,14 +717,22 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
+<<<<<<< HEAD
   m_Color: {r: 1, g: 1, b: 1, a: 1}
+=======
+  m_Color: {r: 0.6117647, g: 0.57254905, b: 0.8773585, a: 1}
+>>>>>>> parent of c445c00 (Revert "2022年前期　ゲームプロジェクト完成")
   m_RaycastTarget: 1
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
   m_Maskable: 1
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
+<<<<<<< HEAD
   m_Sprite: {fileID: 21300000, guid: 1b23ea0a9d32fd24da00d717f39018da, type: 3}
+=======
+  m_Sprite: {fileID: 0}
+>>>>>>> parent of c445c00 (Revert "2022年前期　ゲームプロジェクト完成")
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -951,7 +1005,11 @@ RectTransform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 203539407}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+<<<<<<< HEAD
   m_LocalPosition: {x: 0, y: 0, z: 0}
+=======
+  m_LocalPosition: {x: 0, y: 0, z: 5.19075}
+>>>>>>> parent of c445c00 (Revert "2022年前期　ゲームプロジェクト完成")
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -960,8 +1018,13 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
+<<<<<<< HEAD
   m_AnchoredPosition: {x: 135, y: 75}
   m_SizeDelta: {x: 250, y: 70}
+=======
+  m_AnchoredPosition: {x: 75, y: 75}
+  m_SizeDelta: {x: 180, y: 70}
+>>>>>>> parent of c445c00 (Revert "2022年前期　ゲームプロジェクト完成")
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &203539409
 MonoBehaviour:
@@ -975,8 +1038,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5d1c1d20408494049a07687cca5bbbbc, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+<<<<<<< HEAD
   MaxStarValue: 6
   StarValue: 3
+=======
+  MaxStarValue: 3
+  StarValue: 1
+>>>>>>> parent of c445c00 (Revert "2022年前期　ゲームプロジェクト完成")
 --- !u!114 &203539410
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1010,7 +1078,11 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
+<<<<<<< HEAD
   m_Text: "\u2606\u2606\u2606\u2606\u2606\u2606"
+=======
+  m_Text: "\u2606\u2606\u2606"
+>>>>>>> parent of c445c00 (Revert "2022年前期　ゲームプロジェクト完成")
 --- !u!222 &203539411
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -1170,7 +1242,11 @@ MonoBehaviour:
     m_HorizontalOverflow: 1
     m_VerticalOverflow: 1
     m_LineSpacing: 1
+<<<<<<< HEAD
   m_Text: "\u53CD\u8EE2\u56DE\u6570 4\u56DE"
+=======
+  m_Text: "\u53CD\u8EE2\u56DE\u6570 3\u56DE"
+>>>>>>> parent of c445c00 (Revert "2022年前期　ゲームプロジェクト完成")
 --- !u!222 &290803761
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -1250,7 +1326,11 @@ MonoBehaviour:
     m_HorizontalOverflow: 1
     m_VerticalOverflow: 1
     m_LineSpacing: 1
+<<<<<<< HEAD
   m_Text: "\u53CD\u8EE2\u56DE\u6570 2\u56DE"
+=======
+  m_Text: "\u53CD\u8EE2\u56DE\u6570 3\u56DE"
+>>>>>>> parent of c445c00 (Revert "2022年前期　ゲームプロジェクト完成")
 --- !u!222 &310627978
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -1286,7 +1366,11 @@ RectTransform:
   m_GameObject: {fileID: 315336158}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
+<<<<<<< HEAD
   m_LocalScale: {x: 0.87625, y: 0.87625, z: 0.87625}
+=======
+  m_LocalScale: {x: 1, y: 1, z: 1}
+>>>>>>> parent of c445c00 (Revert "2022年前期　ゲームプロジェクト完成")
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 1152201325}
@@ -1294,7 +1378,11 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
+<<<<<<< HEAD
   m_AnchoredPosition: {x: 450, y: 0}
+=======
+  m_AnchoredPosition: {x: 350, y: 0}
+>>>>>>> parent of c445c00 (Revert "2022年前期　ゲームプロジェクト完成")
   m_SizeDelta: {x: 280, y: 280}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &315336160
@@ -1444,7 +1532,11 @@ RectTransform:
   m_GameObject: {fileID: 368940520}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
+<<<<<<< HEAD
   m_LocalScale: {x: 0.84096, y: 0.84096, z: 0.84096}
+=======
+  m_LocalScale: {x: 1, y: 1, z: 1}
+>>>>>>> parent of c445c00 (Revert "2022年前期　ゲームプロジェクト完成")
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 1403952297}
@@ -1457,7 +1549,11 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
+<<<<<<< HEAD
   m_AnchoredPosition: {x: -150, y: -2775}
+=======
+  m_AnchoredPosition: {x: 0, y: -2775}
+>>>>>>> parent of c445c00 (Revert "2022年前期　ゲームプロジェクト完成")
   m_SizeDelta: {x: 1300, y: 300}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &368940522
@@ -1529,14 +1625,22 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
+<<<<<<< HEAD
   m_Color: {r: 1, g: 1, b: 1, a: 1}
+=======
+  m_Color: {r: 0.6117647, g: 0.57254905, b: 0.8773585, a: 1}
+>>>>>>> parent of c445c00 (Revert "2022年前期　ゲームプロジェクト完成")
   m_RaycastTarget: 1
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
   m_Maskable: 1
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
+<<<<<<< HEAD
   m_Sprite: {fileID: 21300000, guid: 1b23ea0a9d32fd24da00d717f39018da, type: 3}
+=======
+  m_Sprite: {fileID: 0}
+>>>>>>> parent of c445c00 (Revert "2022年前期　ゲームプロジェクト完成")
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -1682,8 +1786,13 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
+<<<<<<< HEAD
   m_AnchoredPosition: {x: 135, y: 75}
   m_SizeDelta: {x: 250, y: 70}
+=======
+  m_AnchoredPosition: {x: 75, y: 75}
+  m_SizeDelta: {x: 180, y: 70}
+>>>>>>> parent of c445c00 (Revert "2022年前期　ゲームプロジェクト完成")
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &492782818
 MonoBehaviour:
@@ -1718,7 +1827,11 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
+<<<<<<< HEAD
   m_Text: "\u2606\u2606\u2606\u2606\u2606\u2606"
+=======
+  m_Text: "\u2606\u2606\u2606"
+>>>>>>> parent of c445c00 (Revert "2022年前期　ゲームプロジェクト完成")
 --- !u!222 &492782819
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -1739,6 +1852,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5d1c1d20408494049a07687cca5bbbbc, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+<<<<<<< HEAD
   MaxStarValue: 6
   StarValue: 0
 --- !u!224 &538996259 stripped
@@ -1757,6 +1871,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 04416f903c54f654a97d08639c59b341, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+=======
+  MaxStarValue: 3
+  StarValue: 0
+>>>>>>> parent of c445c00 (Revert "2022年前期　ゲームプロジェクト完成")
 --- !u!1 &544296303
 GameObject:
   m_ObjectHideFlags: 0
@@ -1866,7 +1984,11 @@ RectTransform:
   m_GameObject: {fileID: 566770043}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
+<<<<<<< HEAD
   m_LocalScale: {x: 0.84096, y: 0.84096, z: 0.84096}
+=======
+  m_LocalScale: {x: 1, y: 1, z: 1}
+>>>>>>> parent of c445c00 (Revert "2022年前期　ゲームプロジェクト完成")
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 665878502}
@@ -1879,7 +2001,11 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
+<<<<<<< HEAD
   m_AnchoredPosition: {x: -150, y: -2375}
+=======
+  m_AnchoredPosition: {x: 0, y: -2375}
+>>>>>>> parent of c445c00 (Revert "2022年前期　ゲームプロジェクト完成")
   m_SizeDelta: {x: 1300, y: 300}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &566770045
@@ -1951,14 +2077,22 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
+<<<<<<< HEAD
   m_Color: {r: 1, g: 1, b: 1, a: 1}
+=======
+  m_Color: {r: 0.6117647, g: 0.57254905, b: 0.8773585, a: 1}
+>>>>>>> parent of c445c00 (Revert "2022年前期　ゲームプロジェクト完成")
   m_RaycastTarget: 1
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
   m_Maskable: 1
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
+<<<<<<< HEAD
   m_Sprite: {fileID: 21300000, guid: 1b23ea0a9d32fd24da00d717f39018da, type: 3}
+=======
+  m_Sprite: {fileID: 0}
+>>>>>>> parent of c445c00 (Revert "2022年前期　ゲームプロジェクト完成")
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -2059,7 +2193,11 @@ MonoBehaviour:
     m_HorizontalOverflow: 1
     m_VerticalOverflow: 1
     m_LineSpacing: 1
+<<<<<<< HEAD
   m_Text: "\u53CD\u8EE2\u56DE\u6570 5\u56DE"
+=======
+  m_Text: "\u53CD\u8EE2\u56DE\u6570 3\u56DE"
+>>>>>>> parent of c445c00 (Revert "2022年前期　ゲームプロジェクト完成")
 --- !u!222 &577460289
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -2095,7 +2233,11 @@ RectTransform:
   m_GameObject: {fileID: 577887214}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
+<<<<<<< HEAD
   m_LocalScale: {x: 0.87625, y: 0.87625, z: 0.87625}
+=======
+  m_LocalScale: {x: 1, y: 1, z: 1}
+>>>>>>> parent of c445c00 (Revert "2022年前期　ゲームプロジェクト完成")
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 119046089}
@@ -2103,7 +2245,11 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
+<<<<<<< HEAD
   m_AnchoredPosition: {x: 450, y: 0}
+=======
+  m_AnchoredPosition: {x: 350, y: 0}
+>>>>>>> parent of c445c00 (Revert "2022年前期　ゲームプロジェクト完成")
   m_SizeDelta: {x: 280, y: 280}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &577887216
@@ -2335,7 +2481,11 @@ RectTransform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 957119366}
+<<<<<<< HEAD
   m_RootOrder: 4
+=======
+  m_RootOrder: 2
+>>>>>>> parent of c445c00 (Revert "2022年前期　ゲームプロジェクト完成")
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
@@ -2495,7 +2645,11 @@ RectTransform:
   m_GameObject: {fileID: 638622623}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
+<<<<<<< HEAD
   m_LocalScale: {x: 0.84096, y: 0.84096, z: 0.84096}
+=======
+  m_LocalScale: {x: 1, y: 1, z: 1}
+>>>>>>> parent of c445c00 (Revert "2022年前期　ゲームプロジェクト完成")
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 1364624610}
@@ -2508,7 +2662,11 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
+<<<<<<< HEAD
   m_AnchoredPosition: {x: -150, y: -3175}
+=======
+  m_AnchoredPosition: {x: 0, y: -3175}
+>>>>>>> parent of c445c00 (Revert "2022年前期　ゲームプロジェクト完成")
   m_SizeDelta: {x: 1300, y: 300}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &638622625
@@ -2580,14 +2738,22 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
+<<<<<<< HEAD
   m_Color: {r: 1, g: 1, b: 1, a: 1}
+=======
+  m_Color: {r: 0.6117647, g: 0.57254905, b: 0.8773585, a: 1}
+>>>>>>> parent of c445c00 (Revert "2022年前期　ゲームプロジェクト完成")
   m_RaycastTarget: 1
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
   m_Maskable: 1
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
+<<<<<<< HEAD
   m_Sprite: {fileID: 21300000, guid: 1b23ea0a9d32fd24da00d717f39018da, type: 3}
+=======
+  m_Sprite: {fileID: 0}
+>>>>>>> parent of c445c00 (Revert "2022年前期　ゲームプロジェクト完成")
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -2646,7 +2812,11 @@ RectTransform:
   m_GameObject: {fileID: 665022666}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
+<<<<<<< HEAD
   m_LocalScale: {x: 0.84096, y: 0.84096, z: 0.84096}
+=======
+  m_LocalScale: {x: 1, y: 1, z: 1}
+>>>>>>> parent of c445c00 (Revert "2022年前期　ゲームプロジェクト完成")
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 1341301780}
@@ -2659,7 +2829,11 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
+<<<<<<< HEAD
   m_AnchoredPosition: {x: -150, y: 425}
+=======
+  m_AnchoredPosition: {x: 0, y: 425}
+>>>>>>> parent of c445c00 (Revert "2022年前期　ゲームプロジェクト完成")
   m_SizeDelta: {x: 1300, y: 300}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &665022668
@@ -2675,14 +2849,22 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
+<<<<<<< HEAD
   m_Color: {r: 1, g: 1, b: 1, a: 1}
+=======
+  m_Color: {r: 0.6117647, g: 0.57254905, b: 0.8773585, a: 1}
+>>>>>>> parent of c445c00 (Revert "2022年前期　ゲームプロジェクト完成")
   m_RaycastTarget: 1
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
   m_Maskable: 1
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
+<<<<<<< HEAD
   m_Sprite: {fileID: 21300000, guid: 1b23ea0a9d32fd24da00d717f39018da, type: 3}
+=======
+  m_Sprite: {fileID: 0}
+>>>>>>> parent of c445c00 (Revert "2022年前期　ゲームプロジェクト完成")
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -2795,7 +2977,11 @@ RectTransform:
   m_GameObject: {fileID: 665878501}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
+<<<<<<< HEAD
   m_LocalScale: {x: 0.87625, y: 0.87625, z: 0.87625}
+=======
+  m_LocalScale: {x: 1, y: 1, z: 1}
+>>>>>>> parent of c445c00 (Revert "2022年前期　ゲームプロジェクト完成")
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 566770044}
@@ -2803,7 +2989,11 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
+<<<<<<< HEAD
   m_AnchoredPosition: {x: 450, y: 0}
+=======
+  m_AnchoredPosition: {x: 350, y: 0}
+>>>>>>> parent of c445c00 (Revert "2022年前期　ゲームプロジェクト完成")
   m_SizeDelta: {x: 280, y: 280}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &665878503
@@ -2826,7 +3016,11 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
+<<<<<<< HEAD
   m_Sprite: {fileID: 21300000, guid: 94acb40f6a9f1874682446b9cc96800d, type: 3}
+=======
+  m_Sprite: {fileID: 21300000, guid: 4f7b0932e9a4a7a408302ef467db2ca1, type: 3}
+>>>>>>> parent of c445c00 (Revert "2022年前期　ゲームプロジェクト完成")
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -2871,7 +3065,11 @@ RectTransform:
   m_GameObject: {fileID: 670534813}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
+<<<<<<< HEAD
   m_LocalScale: {x: 0.87625, y: 0.87625, z: 0.87625}
+=======
+  m_LocalScale: {x: 1, y: 1, z: 1}
+>>>>>>> parent of c445c00 (Revert "2022年前期　ゲームプロジェクト完成")
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 769215311}
@@ -2879,7 +3077,11 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
+<<<<<<< HEAD
   m_AnchoredPosition: {x: 450, y: 0}
+=======
+  m_AnchoredPosition: {x: 350, y: 0}
+>>>>>>> parent of c445c00 (Revert "2022年前期　ゲームプロジェクト完成")
   m_SizeDelta: {x: 280, y: 280}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &670534815
@@ -2947,7 +3149,11 @@ RectTransform:
   m_GameObject: {fileID: 671474432}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
+<<<<<<< HEAD
   m_LocalScale: {x: 0.87625, y: 0.87625, z: 0.87625}
+=======
+  m_LocalScale: {x: 1, y: 1, z: 1}
+>>>>>>> parent of c445c00 (Revert "2022年前期　ゲームプロジェクト完成")
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 82238959}
@@ -2955,7 +3161,11 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
+<<<<<<< HEAD
   m_AnchoredPosition: {x: 450, y: 0}
+=======
+  m_AnchoredPosition: {x: 350, y: 0}
+>>>>>>> parent of c445c00 (Revert "2022年前期　ゲームプロジェクト完成")
   m_SizeDelta: {x: 280, y: 280}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &671474434
@@ -3105,7 +3315,11 @@ RectTransform:
   m_GameObject: {fileID: 769215310}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
+<<<<<<< HEAD
   m_LocalScale: {x: 0.84096, y: 0.84096, z: 0.84096}
+=======
+  m_LocalScale: {x: 1, y: 1, z: 1}
+>>>>>>> parent of c445c00 (Revert "2022年前期　ゲームプロジェクト完成")
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 670534814}
@@ -3118,7 +3332,11 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
+<<<<<<< HEAD
   m_AnchoredPosition: {x: -150, y: -1175}
+=======
+  m_AnchoredPosition: {x: 0, y: -1175}
+>>>>>>> parent of c445c00 (Revert "2022年前期　ゲームプロジェクト完成")
   m_SizeDelta: {x: 1300, y: 300}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &769215312
@@ -3202,14 +3420,22 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
+<<<<<<< HEAD
   m_Color: {r: 1, g: 1, b: 1, a: 1}
+=======
+  m_Color: {r: 0.6117647, g: 0.57254905, b: 0.8773585, a: 1}
+>>>>>>> parent of c445c00 (Revert "2022年前期　ゲームプロジェクト完成")
   m_RaycastTarget: 1
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
   m_Maskable: 1
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
+<<<<<<< HEAD
   m_Sprite: {fileID: 21300000, guid: 1b23ea0a9d32fd24da00d717f39018da, type: 3}
+=======
+  m_Sprite: {fileID: 0}
+>>>>>>> parent of c445c00 (Revert "2022年前期　ゲームプロジェクト完成")
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -3352,12 +3578,22 @@ RectTransform:
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 606240893}
+<<<<<<< HEAD
   m_Father: {fileID: 957119366}
   m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
   m_AnchoredPosition: {x: 837, y: 120}
+=======
+  - {fileID: 1277094425}
+  m_Father: {fileID: 957119366}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0.5, y: 0.5}
+  m_AnchorMax: {x: 0.5, y: 0.5}
+  m_AnchoredPosition: {x: 800, y: 80}
+>>>>>>> parent of c445c00 (Revert "2022年前期　ゲームプロジェクト完成")
   m_SizeDelta: {x: 200, y: 100}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &850713014
@@ -3429,15 +3665,24 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
+<<<<<<< HEAD
   m_Color: {r: 1, g: 1, b: 1, a: 1}
+=======
+  m_Color: {r: 0.6117647, g: 0.57254905, b: 0.95686275, a: 1}
+>>>>>>> parent of c445c00 (Revert "2022年前期　ゲームプロジェクト完成")
   m_RaycastTarget: 1
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
   m_Maskable: 1
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
+<<<<<<< HEAD
   m_Sprite: {fileID: 21300000, guid: 96fd27a965a5b3b45a795d22c83b7b58, type: 3}
   m_Type: 0
+=======
+  m_Sprite: {fileID: 10905, guid: 0000000000000000f000000000000000, type: 0}
+  m_Type: 1
+>>>>>>> parent of c445c00 (Revert "2022年前期　ゲームプロジェクト完成")
   m_PreserveAspect: 0
   m_FillCenter: 1
   m_FillMethod: 4
@@ -3658,7 +3903,11 @@ RectTransform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 957119366}
+<<<<<<< HEAD
   m_RootOrder: 5
+=======
+  m_RootOrder: 3
+>>>>>>> parent of c445c00 (Revert "2022年前期　ゲームプロジェクト完成")
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
@@ -3800,9 +4049,13 @@ RectTransform:
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 1935136250}
+<<<<<<< HEAD
   - {fileID: 538996259}
   - {fileID: 850713013}
   - {fileID: 1277094425}
+=======
+  - {fileID: 850713013}
+>>>>>>> parent of c445c00 (Revert "2022年前期　ゲームプロジェクト完成")
   - {fileID: 595626061}
   - {fileID: 920558860}
   m_Father: {fileID: 0}
@@ -3842,7 +4095,11 @@ RectTransform:
   m_GameObject: {fileID: 989461031}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
+<<<<<<< HEAD
   m_LocalScale: {x: 0.84096, y: 0.84096, z: 0.84096}
+=======
+  m_LocalScale: {x: 1, y: 1, z: 1}
+>>>>>>> parent of c445c00 (Revert "2022年前期　ゲームプロジェクト完成")
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 1258140781}
@@ -3855,7 +4112,11 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
+<<<<<<< HEAD
   m_AnchoredPosition: {x: -150, y: -375}
+=======
+  m_AnchoredPosition: {x: 0, y: -375}
+>>>>>>> parent of c445c00 (Revert "2022年前期　ゲームプロジェクト完成")
   m_SizeDelta: {x: 1300, y: 300}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &989461033
@@ -3871,14 +4132,22 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
+<<<<<<< HEAD
   m_Color: {r: 1, g: 1, b: 1, a: 1}
+=======
+  m_Color: {r: 0.6117647, g: 0.57254905, b: 0.8773585, a: 1}
+>>>>>>> parent of c445c00 (Revert "2022年前期　ゲームプロジェクト完成")
   m_RaycastTarget: 1
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
   m_Maskable: 1
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
+<<<<<<< HEAD
   m_Sprite: {fileID: 21300000, guid: 1b23ea0a9d32fd24da00d717f39018da, type: 3}
+=======
+  m_Sprite: {fileID: 0}
+>>>>>>> parent of c445c00 (Revert "2022年前期　ゲームプロジェクト完成")
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -3990,7 +4259,11 @@ RectTransform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 990230248}
+<<<<<<< HEAD
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+=======
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+>>>>>>> parent of c445c00 (Revert "2022年前期　ゲームプロジェクト完成")
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
@@ -4000,8 +4273,13 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
+<<<<<<< HEAD
   m_AnchoredPosition: {x: 135, y: 75}
   m_SizeDelta: {x: 250, y: 70}
+=======
+  m_AnchoredPosition: {x: 75, y: 75}
+  m_SizeDelta: {x: 180, y: 70}
+>>>>>>> parent of c445c00 (Revert "2022年前期　ゲームプロジェクト完成")
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &990230250
 MonoBehaviour:
@@ -4028,7 +4306,11 @@ MonoBehaviour:
     m_FontSize: 50
     m_FontStyle: 0
     m_BestFit: 0
+<<<<<<< HEAD
     m_MinSize: 5
+=======
+    m_MinSize: 0
+>>>>>>> parent of c445c00 (Revert "2022年前期　ゲームプロジェクト完成")
     m_MaxSize: 50
     m_Alignment: 0
     m_AlignByGeometry: 0
@@ -4036,7 +4318,11 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
+<<<<<<< HEAD
   m_Text: "\u2606\u2606\u2606\u2606\u2606\u2606"
+=======
+  m_Text: "\u2606\u2606\u2606"
+>>>>>>> parent of c445c00 (Revert "2022年前期　ゲームプロジェクト完成")
 --- !u!222 &990230251
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -4057,8 +4343,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5d1c1d20408494049a07687cca5bbbbc, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+<<<<<<< HEAD
   MaxStarValue: 6
   StarValue: 4
+=======
+  MaxStarValue: 3
+  StarValue: 0
+>>>>>>> parent of c445c00 (Revert "2022年前期　ゲームプロジェクト完成")
 --- !u!1 &1074969595
 GameObject:
   m_ObjectHideFlags: 0
@@ -4165,7 +4456,11 @@ RectTransform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1117293764}
+<<<<<<< HEAD
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+=======
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+>>>>>>> parent of c445c00 (Revert "2022年前期　ゲームプロジェクト完成")
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
@@ -4175,8 +4470,13 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
+<<<<<<< HEAD
   m_AnchoredPosition: {x: 135, y: 75}
   m_SizeDelta: {x: 250, y: 70}
+=======
+  m_AnchoredPosition: {x: 75, y: 75}
+  m_SizeDelta: {x: 180, y: 70}
+>>>>>>> parent of c445c00 (Revert "2022年前期　ゲームプロジェクト完成")
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1117293766
 MonoBehaviour:
@@ -4203,7 +4503,11 @@ MonoBehaviour:
     m_FontSize: 50
     m_FontStyle: 0
     m_BestFit: 0
+<<<<<<< HEAD
     m_MinSize: 5
+=======
+    m_MinSize: 0
+>>>>>>> parent of c445c00 (Revert "2022年前期　ゲームプロジェクト完成")
     m_MaxSize: 50
     m_Alignment: 0
     m_AlignByGeometry: 0
@@ -4211,7 +4515,11 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
+<<<<<<< HEAD
   m_Text: "\u2606\u2606\u2606\u2606\u2606\u2606"
+=======
+  m_Text: "\u2606\u2606\u2606"
+>>>>>>> parent of c445c00 (Revert "2022年前期　ゲームプロジェクト完成")
 --- !u!222 &1117293767
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -4232,8 +4540,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5d1c1d20408494049a07687cca5bbbbc, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+<<<<<<< HEAD
   MaxStarValue: 6
   StarValue: 4
+=======
+  MaxStarValue: 3
+  StarValue: 0
+>>>>>>> parent of c445c00 (Revert "2022年前期　ゲームプロジェクト完成")
 --- !u!1 &1143656091
 GameObject:
   m_ObjectHideFlags: 0
@@ -4364,7 +4677,11 @@ RectTransform:
   m_GameObject: {fileID: 1152201324}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
+<<<<<<< HEAD
   m_LocalScale: {x: 0.84096, y: 0.84096, z: 0.84096}
+=======
+  m_LocalScale: {x: 1, y: 1, z: 1}
+>>>>>>> parent of c445c00 (Revert "2022年前期　ゲームプロジェクト完成")
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 315336159}
@@ -4377,7 +4694,11 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
+<<<<<<< HEAD
   m_AnchoredPosition: {x: -150, y: -1975}
+=======
+  m_AnchoredPosition: {x: 0, y: -1975}
+>>>>>>> parent of c445c00 (Revert "2022年前期　ゲームプロジェクト完成")
   m_SizeDelta: {x: 1300, y: 300}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1152201326
@@ -4449,14 +4770,22 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
+<<<<<<< HEAD
   m_Color: {r: 1, g: 1, b: 1, a: 1}
+=======
+  m_Color: {r: 0.6117647, g: 0.57254905, b: 0.8773585, a: 1}
+>>>>>>> parent of c445c00 (Revert "2022年前期　ゲームプロジェクト完成")
   m_RaycastTarget: 1
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
   m_Maskable: 1
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
+<<<<<<< HEAD
   m_Sprite: {fileID: 21300000, guid: 1b23ea0a9d32fd24da00d717f39018da, type: 3}
+=======
+  m_Sprite: {fileID: 0}
+>>>>>>> parent of c445c00 (Revert "2022年前期　ゲームプロジェクト完成")
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -4557,7 +4886,11 @@ MonoBehaviour:
     m_HorizontalOverflow: 1
     m_VerticalOverflow: 1
     m_LineSpacing: 1
+<<<<<<< HEAD
   m_Text: "\u53CD\u8EE2\u56DE\u6570 1\u56DE"
+=======
+  m_Text: "\u53CD\u8EE2\u56DE\u6570 3\u56DE"
+>>>>>>> parent of c445c00 (Revert "2022年前期　ゲームプロジェクト完成")
 --- !u!222 &1166360036
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -4595,7 +4928,11 @@ RectTransform:
   m_GameObject: {fileID: 1168653488}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
+<<<<<<< HEAD
   m_LocalScale: {x: 0.84096, y: 0.84096, z: 0.84096}
+=======
+  m_LocalScale: {x: 1, y: 1, z: 1}
+>>>>>>> parent of c445c00 (Revert "2022年前期　ゲームプロジェクト完成")
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 2077439389}
@@ -4608,7 +4945,11 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
+<<<<<<< HEAD
   m_AnchoredPosition: {x: -150, y: -775}
+=======
+  m_AnchoredPosition: {x: 0, y: -775}
+>>>>>>> parent of c445c00 (Revert "2022年前期　ゲームプロジェクト完成")
   m_SizeDelta: {x: 1300, y: 300}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1168653490
@@ -4624,14 +4965,22 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
+<<<<<<< HEAD
   m_Color: {r: 1, g: 1, b: 1, a: 1}
+=======
+  m_Color: {r: 0.6117647, g: 0.57254905, b: 0.8773585, a: 1}
+>>>>>>> parent of c445c00 (Revert "2022年前期　ゲームプロジェクト完成")
   m_RaycastTarget: 1
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
   m_Maskable: 1
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
+<<<<<<< HEAD
   m_Sprite: {fileID: 21300000, guid: 1b23ea0a9d32fd24da00d717f39018da, type: 3}
+=======
+  m_Sprite: {fileID: 0}
+>>>>>>> parent of c445c00 (Revert "2022年前期　ゲームプロジェクト完成")
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -4743,7 +5092,11 @@ RectTransform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1180704435}
+<<<<<<< HEAD
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+=======
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+>>>>>>> parent of c445c00 (Revert "2022年前期　ゲームプロジェクト完成")
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
@@ -4753,8 +5106,13 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
+<<<<<<< HEAD
   m_AnchoredPosition: {x: 135, y: 75}
   m_SizeDelta: {x: 250, y: 70}
+=======
+  m_AnchoredPosition: {x: 75, y: 75}
+  m_SizeDelta: {x: 180, y: 70}
+>>>>>>> parent of c445c00 (Revert "2022年前期　ゲームプロジェクト完成")
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1180704437
 MonoBehaviour:
@@ -4781,7 +5139,11 @@ MonoBehaviour:
     m_FontSize: 50
     m_FontStyle: 0
     m_BestFit: 0
+<<<<<<< HEAD
     m_MinSize: 5
+=======
+    m_MinSize: 0
+>>>>>>> parent of c445c00 (Revert "2022年前期　ゲームプロジェクト完成")
     m_MaxSize: 50
     m_Alignment: 0
     m_AlignByGeometry: 0
@@ -4789,7 +5151,11 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
+<<<<<<< HEAD
   m_Text: "\u2606\u2606\u2606\u2606\u2606\u2606"
+=======
+  m_Text: "\u2606\u2606\u2606"
+>>>>>>> parent of c445c00 (Revert "2022年前期　ゲームプロジェクト完成")
 --- !u!222 &1180704438
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -4810,8 +5176,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5d1c1d20408494049a07687cca5bbbbc, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+<<<<<<< HEAD
   MaxStarValue: 6
   StarValue: 3
+=======
+  MaxStarValue: 3
+  StarValue: 0
+>>>>>>> parent of c445c00 (Revert "2022年前期　ゲームプロジェクト完成")
 --- !u!1 &1227791054
 GameObject:
   m_ObjectHideFlags: 0
@@ -4841,7 +5212,11 @@ RectTransform:
   m_GameObject: {fileID: 1227791054}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
+<<<<<<< HEAD
   m_LocalScale: {x: 0.84096, y: 0.84096, z: 0.84096}
+=======
+  m_LocalScale: {x: 1, y: 1, z: 1}
+>>>>>>> parent of c445c00 (Revert "2022年前期　ゲームプロジェクト完成")
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 1594541362}
@@ -4854,7 +5229,11 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
+<<<<<<< HEAD
   m_AnchoredPosition: {x: -150, y: -1575}
+=======
+  m_AnchoredPosition: {x: 0, y: -1575}
+>>>>>>> parent of c445c00 (Revert "2022年前期　ゲームプロジェクト完成")
   m_SizeDelta: {x: 1300, y: 300}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1227791056
@@ -4926,14 +5305,22 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
+<<<<<<< HEAD
   m_Color: {r: 1, g: 1, b: 1, a: 1}
+=======
+  m_Color: {r: 0.6117647, g: 0.57254905, b: 0.8773585, a: 1}
+>>>>>>> parent of c445c00 (Revert "2022年前期　ゲームプロジェクト完成")
   m_RaycastTarget: 1
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
   m_Maskable: 1
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
+<<<<<<< HEAD
   m_Sprite: {fileID: 21300000, guid: 1b23ea0a9d32fd24da00d717f39018da, type: 3}
+=======
+  m_Sprite: {fileID: 0}
+>>>>>>> parent of c445c00 (Revert "2022年前期　ゲームプロジェクト完成")
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -4988,9 +5375,15 @@ RectTransform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1258140780}
+<<<<<<< HEAD
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 0.87625, y: 0.87625, z: 0.87625}
+=======
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 5.19075}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+>>>>>>> parent of c445c00 (Revert "2022年前期　ゲームプロジェクト完成")
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 989461032}
@@ -4998,7 +5391,11 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
+<<<<<<< HEAD
   m_AnchoredPosition: {x: 450, y: 0}
+=======
+  m_AnchoredPosition: {x: 350, y: 0}
+>>>>>>> parent of c445c00 (Revert "2022年前期　ゲームプロジェクト完成")
   m_SizeDelta: {x: 280, y: 280}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1258140782
@@ -5110,7 +5507,11 @@ MonoBehaviour:
     m_HorizontalOverflow: 1
     m_VerticalOverflow: 1
     m_LineSpacing: 1
+<<<<<<< HEAD
   m_Text: "\u53CD\u8EE2\u56DE\u6570 1\u56DE"
+=======
+  m_Text: "\u53CD\u8EE2\u56DE\u6570 3\u56DE"
+>>>>>>> parent of c445c00 (Revert "2022年前期　ゲームプロジェクト完成")
 --- !u!222 &1265836724
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -5371,6 +5772,10 @@ GameObject:
   - component: {fileID: 1277094428}
   - component: {fileID: 1277094427}
   - component: {fileID: 1277094426}
+<<<<<<< HEAD
+=======
+  - component: {fileID: 1277094429}
+>>>>>>> parent of c445c00 (Revert "2022年前期　ゲームプロジェクト完成")
   m_Layer: 5
   m_Name: Down
   m_TagString: Untagged
@@ -5392,12 +5797,21 @@ RectTransform:
   m_Children:
   - {fileID: 182331068}
   - {fileID: 1773172401}
+<<<<<<< HEAD
   m_Father: {fileID: 957119366}
   m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
   m_AnchoredPosition: {x: 837, y: -120}
+=======
+  m_Father: {fileID: 850713013}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0.5, y: 0.5}
+  m_AnchorMax: {x: 0.5, y: 0.5}
+  m_AnchoredPosition: {x: 0, y: -160}
+>>>>>>> parent of c445c00 (Revert "2022年前期　ゲームプロジェクト完成")
   m_SizeDelta: {x: 200, y: 100}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1277094426
@@ -5469,15 +5883,24 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
+<<<<<<< HEAD
   m_Color: {r: 1, g: 1, b: 1, a: 1}
+=======
+  m_Color: {r: 0.6117647, g: 0.57254905, b: 0.95686275, a: 1}
+>>>>>>> parent of c445c00 (Revert "2022年前期　ゲームプロジェクト完成")
   m_RaycastTarget: 1
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
   m_Maskable: 1
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
+<<<<<<< HEAD
   m_Sprite: {fileID: 21300000, guid: 96fd27a965a5b3b45a795d22c83b7b58, type: 3}
   m_Type: 0
+=======
+  m_Sprite: {fileID: 10905, guid: 0000000000000000f000000000000000, type: 0}
+  m_Type: 1
+>>>>>>> parent of c445c00 (Revert "2022年前期　ゲームプロジェクト完成")
   m_PreserveAspect: 0
   m_FillCenter: 1
   m_FillMethod: 4
@@ -5494,6 +5917,22 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1277094424}
   m_CullTransparentMesh: 1
+<<<<<<< HEAD
+=======
+--- !u!114 &1277094429
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1277094424}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 39e01cb7af1681b42845d0d957fac48a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Scroll2: {fileID: 1935136249}
+>>>>>>> parent of c445c00 (Revert "2022年前期　ゲームプロジェクト完成")
 --- !u!1 &1341301779
 GameObject:
   m_ObjectHideFlags: 0
@@ -5521,7 +5960,11 @@ RectTransform:
   m_GameObject: {fileID: 1341301779}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
+<<<<<<< HEAD
   m_LocalScale: {x: 0.87625, y: 0.87625, z: 0.87625}
+=======
+  m_LocalScale: {x: 1, y: 1, z: 1}
+>>>>>>> parent of c445c00 (Revert "2022年前期　ゲームプロジェクト完成")
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 665022667}
@@ -5529,7 +5972,11 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
+<<<<<<< HEAD
   m_AnchoredPosition: {x: 450, y: 0}
+=======
+  m_AnchoredPosition: {x: 350, y: 0}
+>>>>>>> parent of c445c00 (Revert "2022年前期　ゲームプロジェクト完成")
   m_SizeDelta: {x: 280, y: 280}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1341301781
@@ -5677,7 +6124,11 @@ RectTransform:
   m_GameObject: {fileID: 1364624609}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
+<<<<<<< HEAD
   m_LocalScale: {x: 0.87625, y: 0.87625, z: 0.87625}
+=======
+  m_LocalScale: {x: 1, y: 1, z: 1}
+>>>>>>> parent of c445c00 (Revert "2022年前期　ゲームプロジェクト完成")
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 638622624}
@@ -5685,7 +6136,11 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
+<<<<<<< HEAD
   m_AnchoredPosition: {x: 450, y: 0}
+=======
+  m_AnchoredPosition: {x: 350, y: 0}
+>>>>>>> parent of c445c00 (Revert "2022年前期　ゲームプロジェクト完成")
   m_SizeDelta: {x: 280, y: 280}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1364624611
@@ -5753,7 +6208,11 @@ RectTransform:
   m_GameObject: {fileID: 1403952296}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
+<<<<<<< HEAD
   m_LocalScale: {x: 0.87625, y: 0.87625, z: 0.87625}
+=======
+  m_LocalScale: {x: 1, y: 1, z: 1}
+>>>>>>> parent of c445c00 (Revert "2022年前期　ゲームプロジェクト完成")
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 368940521}
@@ -5761,7 +6220,11 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
+<<<<<<< HEAD
   m_AnchoredPosition: {x: 450, y: 0}
+=======
+  m_AnchoredPosition: {x: 350, y: 0}
+>>>>>>> parent of c445c00 (Revert "2022年前期　ゲームプロジェクト完成")
   m_SizeDelta: {x: 280, y: 280}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1403952298
@@ -5828,7 +6291,11 @@ RectTransform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1441735706}
+<<<<<<< HEAD
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+=======
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+>>>>>>> parent of c445c00 (Revert "2022年前期　ゲームプロジェクト完成")
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
@@ -5838,8 +6305,13 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
+<<<<<<< HEAD
   m_AnchoredPosition: {x: 135, y: 75}
   m_SizeDelta: {x: 250, y: 70}
+=======
+  m_AnchoredPosition: {x: 75, y: 75}
+  m_SizeDelta: {x: 180, y: 70}
+>>>>>>> parent of c445c00 (Revert "2022年前期　ゲームプロジェクト完成")
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1441735708
 MonoBehaviour:
@@ -5853,7 +6325,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5d1c1d20408494049a07687cca5bbbbc, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+<<<<<<< HEAD
   MaxStarValue: 6
+=======
+  MaxStarValue: 3
+>>>>>>> parent of c445c00 (Revert "2022年前期　ゲームプロジェクト完成")
   StarValue: 3
 --- !u!114 &1441735709
 MonoBehaviour:
@@ -5880,7 +6356,11 @@ MonoBehaviour:
     m_FontSize: 50
     m_FontStyle: 0
     m_BestFit: 0
+<<<<<<< HEAD
     m_MinSize: 5
+=======
+    m_MinSize: 0
+>>>>>>> parent of c445c00 (Revert "2022年前期　ゲームプロジェクト完成")
     m_MaxSize: 50
     m_Alignment: 0
     m_AlignByGeometry: 0
@@ -5888,7 +6368,11 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
+<<<<<<< HEAD
   m_Text: "\u2606\u2606\u2606\u2606\u2606\u2606"
+=======
+  m_Text: "\u2606\u2606\u2606"
+>>>>>>> parent of c445c00 (Revert "2022年前期　ゲームプロジェクト完成")
 --- !u!222 &1441735710
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -6185,7 +6669,11 @@ RectTransform:
   m_GameObject: {fileID: 1594541361}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
+<<<<<<< HEAD
   m_LocalScale: {x: 0.87625, y: 0.87625, z: 0.87625}
+=======
+  m_LocalScale: {x: 1, y: 1, z: 1}
+>>>>>>> parent of c445c00 (Revert "2022年前期　ゲームプロジェクト完成")
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 1227791055}
@@ -6193,7 +6681,11 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
+<<<<<<< HEAD
   m_AnchoredPosition: {x: 450, y: 0}
+=======
+  m_AnchoredPosition: {x: 350, y: 0}
+>>>>>>> parent of c445c00 (Revert "2022年前期　ゲームプロジェクト完成")
   m_SizeDelta: {x: 280, y: 280}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1594541363
@@ -6234,6 +6726,7 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1594541361}
   m_CullTransparentMesh: 1
+<<<<<<< HEAD
 --- !u!1001 &1671315035
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -6355,6 +6848,8 @@ PrefabInstance:
       objectReference: {fileID: 21300000, guid: 96fd27a965a5b3b45a795d22c83b7b58, type: 3}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 1634f6af140908243941b8278b20ada8, type: 3}
+=======
+>>>>>>> parent of c445c00 (Revert "2022年前期　ゲームプロジェクト完成")
 --- !u!1 &1684463018
 GameObject:
   m_ObjectHideFlags: 0
@@ -6426,7 +6921,11 @@ MonoBehaviour:
     m_HorizontalOverflow: 1
     m_VerticalOverflow: 1
     m_LineSpacing: 1
+<<<<<<< HEAD
   m_Text: "\u53CD\u8EE2\u56DE\u6570 5\u56DE"
+=======
+  m_Text: "\u53CD\u8EE2\u56DE\u6570 3\u56DE"
+>>>>>>> parent of c445c00 (Revert "2022年前期　ゲームプロジェクト完成")
 --- !u!222 &1684463021
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -6541,7 +7040,11 @@ RectTransform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1720857696}
+<<<<<<< HEAD
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+=======
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+>>>>>>> parent of c445c00 (Revert "2022年前期　ゲームプロジェクト完成")
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
@@ -6551,8 +7054,13 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
+<<<<<<< HEAD
   m_AnchoredPosition: {x: 135, y: 75}
   m_SizeDelta: {x: 250, y: 70}
+=======
+  m_AnchoredPosition: {x: 75, y: 75}
+  m_SizeDelta: {x: 180, y: 70}
+>>>>>>> parent of c445c00 (Revert "2022年前期　ゲームプロジェクト完成")
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1720857698
 MonoBehaviour:
@@ -6579,7 +7087,11 @@ MonoBehaviour:
     m_FontSize: 50
     m_FontStyle: 0
     m_BestFit: 0
+<<<<<<< HEAD
     m_MinSize: 5
+=======
+    m_MinSize: 0
+>>>>>>> parent of c445c00 (Revert "2022年前期　ゲームプロジェクト完成")
     m_MaxSize: 50
     m_Alignment: 0
     m_AlignByGeometry: 0
@@ -6587,7 +7099,11 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
+<<<<<<< HEAD
   m_Text: "\u2606\u2606\u2606\u2606\u2606\u2606"
+=======
+  m_Text: "\u2606\u2606\u2606"
+>>>>>>> parent of c445c00 (Revert "2022年前期　ゲームプロジェクト完成")
 --- !u!222 &1720857699
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -6608,8 +7124,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5d1c1d20408494049a07687cca5bbbbc, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+<<<<<<< HEAD
   MaxStarValue: 6
   StarValue: 5
+=======
+  MaxStarValue: 3
+  StarValue: 0
+>>>>>>> parent of c445c00 (Revert "2022年前期　ゲームプロジェクト完成")
 --- !u!1 &1724783335
 GameObject:
   m_ObjectHideFlags: 0
@@ -6716,7 +7237,11 @@ RectTransform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1760079973}
+<<<<<<< HEAD
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+=======
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+>>>>>>> parent of c445c00 (Revert "2022年前期　ゲームプロジェクト完成")
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
@@ -6726,8 +7251,13 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
+<<<<<<< HEAD
   m_AnchoredPosition: {x: 135, y: 75}
   m_SizeDelta: {x: 250, y: 70}
+=======
+  m_AnchoredPosition: {x: 75, y: 75}
+  m_SizeDelta: {x: 180, y: 70}
+>>>>>>> parent of c445c00 (Revert "2022年前期　ゲームプロジェクト完成")
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1760079975
 MonoBehaviour:
@@ -6754,7 +7284,11 @@ MonoBehaviour:
     m_FontSize: 50
     m_FontStyle: 0
     m_BestFit: 0
+<<<<<<< HEAD
     m_MinSize: 5
+=======
+    m_MinSize: 0
+>>>>>>> parent of c445c00 (Revert "2022年前期　ゲームプロジェクト完成")
     m_MaxSize: 50
     m_Alignment: 0
     m_AlignByGeometry: 0
@@ -6762,7 +7296,11 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
+<<<<<<< HEAD
   m_Text: "\u2606\u2606\u2606\u2606\u2606\u2606"
+=======
+  m_Text: "\u2606\u2606\u2606"
+>>>>>>> parent of c445c00 (Revert "2022年前期　ゲームプロジェクト完成")
 --- !u!222 &1760079976
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -6783,8 +7321,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5d1c1d20408494049a07687cca5bbbbc, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+<<<<<<< HEAD
   MaxStarValue: 6
   StarValue: 1
+=======
+  MaxStarValue: 3
+  StarValue: 2
+>>>>>>> parent of c445c00 (Revert "2022年前期　ゲームプロジェクト完成")
 --- !u!1 &1769889077
 GameObject:
   m_ObjectHideFlags: 0
@@ -6856,7 +7399,11 @@ MonoBehaviour:
     m_HorizontalOverflow: 1
     m_VerticalOverflow: 1
     m_LineSpacing: 1
+<<<<<<< HEAD
   m_Text: "\u53CD\u8EE2\u56DE\u6570 1\u56DE"
+=======
+  m_Text: "\u53CD\u8EE2\u56DE\u6570 3\u56DE"
+>>>>>>> parent of c445c00 (Revert "2022年前期　ゲームプロジェクト完成")
 --- !u!222 &1769889080
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -7105,7 +7652,11 @@ MonoBehaviour:
     m_HorizontalOverflow: 1
     m_VerticalOverflow: 1
     m_LineSpacing: 1
+<<<<<<< HEAD
   m_Text: "\u53CD\u8EE2\u56DE\u6570 2\u56DE"
+=======
+  m_Text: "\u53CD\u8EE2\u56DE\u6570 3\u56DE"
+>>>>>>> parent of c445c00 (Revert "2022年前期　ゲームプロジェクト完成")
 --- !u!222 &1855784358
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -7217,8 +7768,13 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
+<<<<<<< HEAD
   m_AnchoredPosition: {x: 135, y: 75}
   m_SizeDelta: {x: 250, y: 70}
+=======
+  m_AnchoredPosition: {x: 75, y: 75}
+  m_SizeDelta: {x: 180, y: 70}
+>>>>>>> parent of c445c00 (Revert "2022年前期　ゲームプロジェクト完成")
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1908547242
 MonoBehaviour:
@@ -7253,7 +7809,11 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
+<<<<<<< HEAD
   m_Text: "\u2606\u2606\u2606\u2606\u2606\u2606"
+=======
+  m_Text: "\u2606\u2606\u2606"
+>>>>>>> parent of c445c00 (Revert "2022年前期　ゲームプロジェクト完成")
 --- !u!222 &1908547243
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -7274,7 +7834,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5d1c1d20408494049a07687cca5bbbbc, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+<<<<<<< HEAD
   MaxStarValue: 6
+=======
+  MaxStarValue: 3
+>>>>>>> parent of c445c00 (Revert "2022年前期　ゲームプロジェクト完成")
   StarValue: 1
 --- !u!1 &1935136249
 GameObject:
@@ -7347,7 +7911,10 @@ MonoBehaviour:
   - {fileID: 82238958}
   speed: 1000
   _count: 1
+<<<<<<< HEAD
   scale: 1.2
+=======
+>>>>>>> parent of c445c00 (Revert "2022年前期　ゲームプロジェクト完成")
 --- !u!114 &1935136252
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -7641,7 +8208,11 @@ RectTransform:
   m_GameObject: {fileID: 2077439388}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
+<<<<<<< HEAD
   m_LocalScale: {x: 0.87625, y: 0.87625, z: 0.87625}
+=======
+  m_LocalScale: {x: 1, y: 1, z: 1}
+>>>>>>> parent of c445c00 (Revert "2022年前期　ゲームプロジェクト完成")
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 1168653489}
@@ -7649,7 +8220,11 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
+<<<<<<< HEAD
   m_AnchoredPosition: {x: 450, y: 0}
+=======
+  m_AnchoredPosition: {x: 350, y: 0}
+>>>>>>> parent of c445c00 (Revert "2022年前期　ゲームプロジェクト完成")
   m_SizeDelta: {x: 280, y: 280}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &2077439390
@@ -7716,7 +8291,11 @@ RectTransform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2141103962}
+<<<<<<< HEAD
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+=======
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+>>>>>>> parent of c445c00 (Revert "2022年前期　ゲームプロジェクト完成")
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
@@ -7726,8 +8305,13 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
+<<<<<<< HEAD
   m_AnchoredPosition: {x: 135, y: 75}
   m_SizeDelta: {x: 250, y: 70}
+=======
+  m_AnchoredPosition: {x: 75, y: 75}
+  m_SizeDelta: {x: 180, y: 70}
+>>>>>>> parent of c445c00 (Revert "2022年前期　ゲームプロジェクト完成")
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &2141103964
 MonoBehaviour:
@@ -7754,7 +8338,11 @@ MonoBehaviour:
     m_FontSize: 50
     m_FontStyle: 0
     m_BestFit: 0
+<<<<<<< HEAD
     m_MinSize: 5
+=======
+    m_MinSize: 0
+>>>>>>> parent of c445c00 (Revert "2022年前期　ゲームプロジェクト完成")
     m_MaxSize: 50
     m_Alignment: 0
     m_AlignByGeometry: 0
@@ -7762,7 +8350,11 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
+<<<<<<< HEAD
   m_Text: "\u2606\u2606\u2606\u2606\u2606\u2606"
+=======
+  m_Text: "\u2606\u2606\u2606"
+>>>>>>> parent of c445c00 (Revert "2022年前期　ゲームプロジェクト完成")
 --- !u!222 &2141103965
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -7783,5 +8375,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5d1c1d20408494049a07687cca5bbbbc, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+<<<<<<< HEAD
   MaxStarValue: 6
   StarValue: 2
+=======
+  MaxStarValue: 3
+  StarValue: 0
+>>>>>>> parent of c445c00 (Revert "2022年前期　ゲームプロジェクト完成")
